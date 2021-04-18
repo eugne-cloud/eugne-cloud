@@ -1,8 +1,8 @@
-👋 Hi, I’m Eugne @eugne-cloud
-👀 An undergraduate mechanical engineering student
-🌱 I’m currently interested in learning engineering related applications
-💞️ I’m looking to collaborate on anything
-📫 How to reach me? 
+-👋 Hi, I’m Eugne @eugne-cloud
+-👀 An undergraduate mechanical engineering student
+-🌱 I’m currently interested in learning engineering related applications
+-💞️ I’m looking to collaborate on anything
+-📫 How to reach me? 
 - By mail at eugne.eng@gmail.com
 
 <!---
