@@ -1,9 +1,9 @@
 ### Hello Folks, I'm Eugne 👋 
 
-🔭 I’m currently an undergraduate Mechanical Engineering student
+🔭 An undergraduate Mechanical Engineering student
 
-🌱 I’m currently focusing on the applications climate change
+🌱 Currently focusing on Energy Systems
 
-💬 Ask me about anything
+💬 Ask me anything
 
 📫 Reach me? email me at eugne.eng@gmail.com
